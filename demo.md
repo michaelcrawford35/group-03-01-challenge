@@ -7,7 +7,7 @@ Nick joined programming per the influence of his own father.  An interesting fac
 own father as well! Currently, Nick is finishing his degree- and will soon be joining Cerner as a backend or fullstack developer!
 Why did he choose programming? Simple. Nick wants to change the world. People typically overlook the contributions of software development
 but if you took a single moment to discern how profoundly your life would be without software you would quickly appreciate the changes
-of these unsung heroines!
+of these unsung heroines! I am always late to things.
 
 ## About Chase
 The running speed starts slowly, but gets faster each minute after you hear this signal. 
