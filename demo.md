@@ -1,7 +1,7 @@
 **Purpose: to demo the process of branching in a simple markdown file**
 
-# Nick,Chsae,Matthew
 
+# Nick,Chsae,Matthew
 
 ## About Nick
 Nick joined programming per the influence of his own father.  An interesting fact, his father joined programming from his **HIS** 
@@ -23,3 +23,4 @@ The test will begin on the word start. On your mark, get ready, start.
 
 
 Have a Really nice day!
+After comment from owner
