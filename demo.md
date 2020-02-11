@@ -19,3 +19,6 @@ The second time you fail to complete a lap before the sound, your test is over.
 The test will begin on the word start. On your mark, get ready, start.
 
 ##Thanks for comming! 
+
+
+Have a Really nice day!
