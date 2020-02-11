@@ -2,6 +2,7 @@
 
 # Nick,Chsae,Matthew
 
+
 ## About Nick
 Nick joined programming per the influence of his own father.  An interesting fact, his father joined programming from his **HIS** 
 own father as well! Currently, Nick is finishing his degree- and will soon be joining Cerner as a backend or fullstack developer!
