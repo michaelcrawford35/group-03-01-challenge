@@ -20,4 +20,5 @@ The test will begin on the word start. On your mark, get ready, start.
 
 ##Thanks for comming! 
 
-Have a nice day. 
+Have a Really nice day!
+
