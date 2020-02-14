@@ -10,6 +10,8 @@ Why did he choose programming? Simple. Nick wants to change the world. People ty
 but if you took a single moment to discern how profoundly your life would be without software you would quickly appreciate the changes
 of these unsung heroines! I am sometimes(usually){Almost always} late to things.
 
+This sentence is trash.
+
 ## About Chase
 The running speed starts slowly, but gets faster each minute after you hear this signal. 
 [beep] A single lap should be completed each time you hear this sound. [ding]
