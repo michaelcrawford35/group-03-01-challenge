@@ -25,4 +25,4 @@ The test will begin on the word start. On your mark, get ready, start.
 
 
 Have a Really nice day!
-After comment from owner
+If you have any questions, please let us know!
